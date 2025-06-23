@@ -7,7 +7,7 @@
 💡 Passionate about building smart, scalable, and secure systems
 
 ### 🔧 Technologies & Tools
-- Languages: Python, Java, C, JavaScript, HTML, CSS  
+- Languages: Python, Java,DSA, C, JavaScript, HTML, CSS  
 - Cloud & DevOps: AWS, Terraform, CI/CD Pipelines, Kubernetes  
 - Databases: MySQL, NoSQL  
 - OS & Networking: Linux, Windows, Networking Fundamentals
