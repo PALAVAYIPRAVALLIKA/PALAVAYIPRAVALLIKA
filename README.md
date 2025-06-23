@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi there, I'm Pravallika Palavayi!
+#  I'm Pravallika Palavayi!
 
 🎓 MS in Computer Science @ Stevens Institute of Technology  
 💼 Former Software Developer | Teaching Assistant - Java & DSA  
@@ -25,8 +25,10 @@ An AI-powered assistive device using Raspberry Pi, OpenCV & AWS with voice feedb
 - AWS cloud computing course 
 
 
-📫 Contact me 
-[LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46)  
+📫 Contact me
+
+[LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46) 
+
 [Mail](pravallikapalavayi46@gmail.com)
   
 
