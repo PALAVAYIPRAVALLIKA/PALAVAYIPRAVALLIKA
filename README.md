@@ -26,6 +26,7 @@ An AI-powered assistive device using Raspberry Pi, OpenCV & AWS with voice feedb
 
 📫 Contact me
 [LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46) 
+
 [Mail](pravallikapalavayi46@gmail.com)
   
 
