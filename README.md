@@ -24,11 +24,8 @@ An AI-powered assistive device using Raspberry Pi, OpenCV & AWS with voice feedb
 - MySQL Bootcamp
 - AWS cloud computing course 
 
-
 📫 Contact me
-
 [LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46) 
-
 [Mail](pravallikapalavayi46@gmail.com)
   
 
