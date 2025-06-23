@@ -25,5 +25,9 @@ An AI-powered assistive device using Raspberry Pi, OpenCV & AWS with voice feedb
 - AWS cloud computing course 
 
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46)  
+📫 Contact me 
+[LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46)  
+[Mail](pravallikapalavayi46@gmail.com)
+  
+
 
