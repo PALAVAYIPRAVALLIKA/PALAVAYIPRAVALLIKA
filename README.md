@@ -4,7 +4,7 @@
 🎓 MS in Computer Science @ Stevens Institute of Technology  
 💼 Former Software Developer | Teaching Assistant - Java & DSA  
 ☁️ Cloud Enthusiast | AWS | DevOps | CI/CD | Kubernetes  
-💡 Passionate about building smart, scalable, and secure systems
+💡 Java developer passionate about scalable, secure, and cloud-based solutions.
 
 ### 🔧 Technologies & Tools
 - Languages: Python, Java,DSA, C, JavaScript, HTML, CSS  
