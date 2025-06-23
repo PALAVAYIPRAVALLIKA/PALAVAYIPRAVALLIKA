@@ -22,12 +22,11 @@ An AI-powered assistive device using Raspberry Pi, OpenCV & AWS with voice feedb
 ### 📜 Certifications
 - Java Data Structures & Algorithms  
 - MySQL Bootcamp
-- AWS cloud computing course 
-
-📫 Contact me
-[LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46) 
-
-[Mail](pravallikapalavayi46@gmail.com)
+- AWS cloud computing course
   
+📫 Reach me on
+[LinkedIn](https://www.linkedin.com/in/pravallika-palavayi46) 
+[Email](mailto:pravallikapalavayi46@gmail.com)
+
 
 
